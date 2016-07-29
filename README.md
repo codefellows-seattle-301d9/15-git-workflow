@@ -6,7 +6,7 @@ Pro tip: Keep notes on your progress throughout the lab and record any "a ha" mo
 
 ***It is not expected that you will complete this project in any meaningful way. The point of this exercise is to get your feet wet in the group work process and to try some things for the first time without the pressure of working on your final project.***
 
-***Ideally, you'll get as much done as you can between about 1:00 and 3:00, take about an hour to do the merge conflict exercise described at the bottom of this document, and then take some time as a team to review and discuss how it all went.***
+***Ideally, you'll get as much done as you can between about 2:00 and 4:00, take about an hour to do the merge conflict exercise described at the bottom of this document, and then take some time as a team to review and discuss how it all went.***
 
 ***Also, consider how far you made it relative to what you thought you would. Then turn in the project and go home and start collecting your thoughts on the final project.***
 
