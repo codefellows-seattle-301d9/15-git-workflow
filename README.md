@@ -1,6 +1,6 @@
-# Assignment Overview: Lab for Class 14
+# Assignment Overview: Lab for Class 15
 
-Lab today will be a practice run in working with your project team. You're going to create a single project (in a new GitHub repo, of course, and call it `june_30_lab`, with all team members set up as Collaborators) with two HTML docs and supporting CSS and JS docs as needed.
+Lab today will be a practice run in working with your project team. You're going to create a single project (in a new GitHub repo, of course, and call it `july_29_lab`, with all team members set up as Collaborators) with two HTML docs and supporting CSS and JS docs as needed.
 
 Pro tip: Keep notes on your progress throughout the lab and record any "a ha" moments.
 
